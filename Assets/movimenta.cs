@@ -49,6 +49,28 @@ public class movimenta : MonoBehaviour
             transform.Translate(m);
         }
 
+
+        if (transform.position.x <= -9.5)
+        {
+            m.x = 0.1f;
+        }
+
+        if (transform.position.x >= 9.5)
+        {
+            m.x = -0.1f;
+        }
+
+        if (transform.position.z <= -9.5)
+        {
+            m.z = 0.1f;
+        }
+
+        if (transform.position.z >= 9.5)
+        {
+            m.z = -0.1f;
+
+        }
+
     }
 }
  
