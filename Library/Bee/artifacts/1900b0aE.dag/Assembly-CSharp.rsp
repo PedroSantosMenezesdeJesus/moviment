@@ -113,7 +113,10 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
+<<<<<<< HEAD
 -define:UNITY_PRO_LICENSE
+=======
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
 -define:ENABLE_CUSTOM_RENDER_TEXTURE
 -define:ENABLE_DIRECTOR
 -define:ENABLE_LOCALIZATION
@@ -386,7 +389,11 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+<<<<<<< HEAD
 "Assets/NewBehaviourScript.cs"
+=======
+"Assets/movimenta.cs"
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
 -langversion:9.0
 
 /deterministic

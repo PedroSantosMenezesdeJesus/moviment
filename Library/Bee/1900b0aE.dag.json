@@ -379,8 +379,13 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
+<<<<<<< HEAD
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -395,8 +400,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 230,
       "PayloadLength": 49562,
+=======
+      "PayloadOffset": 233,
+      "PayloadLength": 49535,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -412,9 +422,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 49886,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 49862,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -3822,7 +3838,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 50032,
+=======
+      "PayloadOffset": 50011,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 9514,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -4194,9 +4214,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 59651,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 59630,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -4211,8 +4237,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 59766,
       "PayloadLength": 43375,
+=======
+      "PayloadOffset": 59748,
+      "PayloadLength": 43348,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -4228,9 +4259,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 103227,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 103182,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -5125,7 +5162,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 103365,
+=======
+      "PayloadOffset": 103323,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10226,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -5521,9 +5562,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 113704,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 113662,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -5538,8 +5585,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 113827,
       "PayloadLength": 59365,
+=======
+      "PayloadOffset": 113788,
+      "PayloadLength": 59338,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -5555,9 +5607,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 173286,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 173220,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6556,7 +6614,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 173432,
+=======
+      "PayloadOffset": 173369,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 9854,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -6940,9 +7002,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEditor.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 183391,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 183328,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -6957,8 +7025,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp",
       "DisplayName": "Writing UnityEditor.UI.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 183506,
       "PayloadLength": 40233,
+=======
+      "PayloadOffset": 183446,
+      "PayloadLength": 40206,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -6974,9 +7047,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2",
       "DisplayName": "Writing UnityEditor.UI.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 223825,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 223738,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -7668,7 +7747,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEditor.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 223963,
+=======
+      "PayloadOffset": 223879,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10552,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -8076,9 +8159,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 234635,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 234551,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -8093,8 +8182,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 234765,
       "PayloadLength": 37467,
+=======
+      "PayloadOffset": 234684,
+      "PayloadLength": 37440,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -8110,9 +8204,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 272333,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 272225,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -8716,7 +8816,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.EditorCoroutines.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 272486,
+=======
+      "PayloadOffset": 272381,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10628,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -9127,9 +9231,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 283246,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 283141,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9144,8 +9254,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 283388,
       "PayloadLength": 40240,
+=======
+      "PayloadOffset": 283286,
+      "PayloadLength": 40213,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -9161,9 +9276,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 323741,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 323612,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -9800,7 +9921,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Performance.Profile-Analyzer.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 323906,
+=======
+      "PayloadOffset": 323780,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10628,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -10211,9 +10336,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 334648,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 334522,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -10228,8 +10359,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 334772,
       "PayloadLength": 68804,
+=======
+      "PayloadOffset": 334649,
+      "PayloadLength": 68777,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -10245,9 +10381,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 403671,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 403521,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11414,7 +11556,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.PlasticSCM.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 403818,
+=======
+      "PayloadOffset": 403671,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10177,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -11810,9 +11956,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Rider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 414104,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 413957,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -11827,8 +11979,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 414223,
       "PayloadLength": 39767,
+=======
+      "PayloadOffset": 414079,
+      "PayloadLength": 39740,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -11844,9 +12001,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2",
       "DisplayName": "Writing Unity.Rider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 454080,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 453909,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12479,7 +12642,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Rider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 454222,
+=======
+      "PayloadOffset": 454054,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10090,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -12872,9 +13039,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Settings.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 464424,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 464256,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -12889,8 +13062,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 464546,
       "PayloadLength": 38183,
+=======
+      "PayloadOffset": 464381,
+      "PayloadLength": 38156,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -12906,9 +13084,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2",
       "DisplayName": "Writing Unity.Settings.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 502822,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 502630,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -13505,7 +13689,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Settings.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 502967,
+=======
+      "PayloadOffset": 502778,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10628,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -13916,9 +14104,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 513737,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 513548,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -13933,8 +14127,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 513889,
       "PayloadLength": 38944,
+=======
+      "PayloadOffset": 513703,
+      "PayloadLength": 38917,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -13950,9 +14149,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 552956,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 552743,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14553,7 +14758,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 553131,
+=======
+      "PayloadOffset": 552921,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10628,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -14964,9 +15173,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 563911,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 563701,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -14981,8 +15196,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 564073,
       "PayloadLength": 37717,
+=======
+      "PayloadOffset": 563866,
+      "PayloadLength": 37690,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -14998,9 +15218,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 601923,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 601689,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -15579,7 +15805,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 602108,
+=======
+      "PayloadOffset": 601877,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10628,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -15990,9 +16220,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 612844,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 612613,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16007,8 +16243,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 612962,
       "PayloadLength": 40575,
+=======
+      "PayloadOffset": 612734,
+      "PayloadLength": 40548,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -16024,9 +16265,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 653626,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 653371,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -16703,7 +16950,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 653767,
+=======
+      "PayloadOffset": 653515,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10378,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -17105,9 +17356,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 664250,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 663998,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17122,8 +17379,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 664365,
       "PayloadLength": 42122,
+=======
+      "PayloadOffset": 664116,
+      "PayloadLength": 42095,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -17139,9 +17401,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 706573,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 706297,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -17842,7 +18110,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 706711,
+=======
+      "PayloadOffset": 706438,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10378,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -18244,9 +18516,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 717206,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 716933,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -18261,8 +18539,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 717333,
       "PayloadLength": 89725,
+=======
+      "PayloadOffset": 717063,
+      "PayloadLength": 89698,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -18278,9 +18561,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 807156,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 806859,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -19689,7 +19978,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 807306,
+=======
+      "PayloadOffset": 807012,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10378,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20091,9 +20384,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualStudio.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 817800,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 817506,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20108,8 +20407,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 817926,
       "PayloadLength": 40053,
+=======
+      "PayloadOffset": 817635,
+      "PayloadLength": 40026,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -20125,9 +20429,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualStudio.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 858076,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 857758,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -20770,7 +21080,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualStudio.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 858225,
+=======
+      "PayloadOffset": 857910,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10090,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21163,9 +21477,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.CollabProxy.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 868430,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 868115,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21180,8 +21500,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 868555,
       "PayloadLength": 37262,
+=======
+      "PayloadOffset": 868243,
+      "PayloadLength": 37235,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -21197,9 +21522,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2",
       "DisplayName": "Writing Unity.CollabProxy.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 905913,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 905574,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -21800,7 +22131,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.CollabProxy.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 906061,
+=======
+      "PayloadOffset": 905725,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10713,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -22214,9 +22549,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 916900,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 916564,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22231,8 +22572,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 917036,
       "PayloadLength": 41455,
+=======
+      "PayloadOffset": 916703,
+      "PayloadLength": 41428,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -22248,9 +22594,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 958598,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 958238,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -22985,7 +23337,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TestTools.CodeCoverage.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 958757,
+=======
+      "PayloadOffset": 958400,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10409,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -23387,9 +23743,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 969281,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 968924,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -23404,8 +23766,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 969406,
       "PayloadLength": 41995,
+=======
+      "PayloadOffset": 969052,
+      "PayloadLength": 41968,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -23421,9 +23788,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1011497,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1011116,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24132,7 +24505,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1011645,
+=======
+      "PayloadOffset": 1011267,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10707,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -24546,9 +24923,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1022464,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1022086,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -24563,8 +24946,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1022586,
       "PayloadLength": 61466,
+=======
+      "PayloadOffset": 1022211,
+      "PayloadLength": 61439,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -24580,9 +24968,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2",
       "DisplayName": "Writing Unity.Timeline.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1084145,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1083743,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -25725,7 +26119,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1084290,
+=======
+      "PayloadOffset": 1083891,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10704,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -26139,9 +26537,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1095118,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1094719,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -26156,8 +26560,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1095252,
       "PayloadLength": 94131,
+=======
+      "PayloadOffset": 1094856,
+      "PayloadLength": 94104,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -26173,9 +26582,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1189488,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1189065,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -27714,7 +28129,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1189645,
+=======
+      "PayloadOffset": 1189225,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10716,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -28128,9 +28547,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1200478,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1200058,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -28145,8 +28570,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1200605,
       "PayloadLength": 85254,
+=======
+      "PayloadOffset": 1200188,
+      "PayloadLength": 85227,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -28162,9 +28592,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1285957,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1285513,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29526,7 +29962,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1286107,
+=======
+      "PayloadOffset": 1285666,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10466,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -29931,9 +30371,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1296697,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1296256,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -29948,8 +30394,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1296831,
       "PayloadLength": 57582,
+=======
+      "PayloadOffset": 1296393,
+      "PayloadLength": 57555,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -29965,9 +30416,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1354518,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1354053,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -30933,7 +31390,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1354675,
+=======
+      "PayloadOffset": 1354213,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10899,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -31353,9 +31814,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1365692,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1365230,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -31370,8 +31837,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1365820,
       "PayloadLength": 39258,
+=======
+      "PayloadOffset": 1365361,
+      "PayloadLength": 39231,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -31387,9 +31859,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1405177,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1404691,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32012,7 +32490,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1405328,
+=======
+      "PayloadOffset": 1404845,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 10554,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -32420,9 +32902,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1416018,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1415535,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -32437,8 +32925,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1416164,
       "PayloadLength": 38608,
+=======
+      "PayloadOffset": 1415684,
+      "PayloadLength": 38581,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -32454,9 +32947,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1454889,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1454382,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33110,7 +33609,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.SettingsProvider.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1455058,
+=======
+      "PayloadOffset": 1454554,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 11083,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -33536,9 +34039,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1466266,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1465762,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -33553,8 +34062,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1466401,
       "PayloadLength": 45565,
+=======
+      "PayloadOffset": 1465900,
+      "PayloadLength": 45538,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -33570,9 +34084,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1512072,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1511544,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34294,7 +34814,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1512230,
+=======
+      "PayloadOffset": 1511705,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 11083,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -34720,9 +35244,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1523439,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1522914,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -34737,8 +35267,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1523575,
       "PayloadLength": 37711,
+=======
+      "PayloadOffset": 1523053,
+      "PayloadLength": 37684,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -34754,9 +35289,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1561393,
       "PayloadLength": 43,
       "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\movimen",
+=======
+      "PayloadOffset": 1560844,
+      "PayloadLength": 46,
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\2jd\\Desktop",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35372,7 +35913,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Shared.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1561552,
+=======
+      "PayloadOffset": 1561006,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 11179,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -35801,9 +36346,15 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1572837,
       "PayloadLength": 30,
       "PayloadDebugContentSnippet": "C:\\Users\\2jd\\movimentacao cudo",
+=======
+      "PayloadOffset": 1572291,
+      "PayloadLength": 33,
+      "PayloadDebugContentSnippet": "C:\\Users\\2jd\\Desktop\\movimenta",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [],
       "InputFlags": [],
       "Outputs": [
@@ -35818,8 +36369,13 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1572953,
       "PayloadLength": 36338,
+=======
+      "PayloadOffset": 1572410,
+      "PayloadLength": 36302,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "InputFlags": [],
@@ -35835,7 +36391,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1609378,
+=======
+      "PayloadOffset": 1608799,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -36110,7 +36670,11 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
+<<<<<<< HEAD
         "Assets/NewBehaviourScript.cs",
+=======
+        "Assets/movimenta.cs",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
         "C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll",
@@ -36660,7 +37224,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1609474,
+=======
+      "PayloadOffset": 1608895,
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "PayloadLength": 11618,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -38234,7 +38802,11 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "Extracting script serialization layouts",
+<<<<<<< HEAD
       "Action": "\"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\" -s=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\2jd\\movimentacao cudo\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+=======
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\EditorExtensions\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.11f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.ext.nunit@2.0.5\\net40\\unity-custom\" -s=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\2jd\\Desktop\\movimentacao\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -38540,6 +39112,10 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
+<<<<<<< HEAD
   "PayloadsFile": "C:/Users/2jd/movimentacao cudo/Library/Bee/1900b0aE.dag.payloads",
+=======
+  "PayloadsFile": "C:/Users/2jd/Desktop/movimentacao/Library/Bee/1900b0aE.dag.payloads",
+>>>>>>> 2f33de91f575bb47b62f1eae6af087111349d11e
   "RelativePathToRoot": "../.."
 }
